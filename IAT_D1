@@ -179,9 +179,10 @@ print(data2)
 
 data = pd.concat([data1, data2], axis=1, join = 'outer', sort = False)
 data = data.loc[:,~data.columns.duplicated()]
+data = pd.concat([data, data3], axis=1, join = 'outer', sort = False)
+
 data[data == 'nan'] = np.nan
 data.dropna(axis=0, how='any', inplace=True)
-data = pd.concat([data, data3], axis=1, join = 'outer', sort = False)
 
 
 
