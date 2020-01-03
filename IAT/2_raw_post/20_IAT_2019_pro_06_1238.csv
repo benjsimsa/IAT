@@ -1,0 +1,941 @@
+categoryA,categoryB,rightAttribute,leftAttribute,orStimulus,instructions,trial_type,stimulusImage,stimulusText,blocks.thisRepN,blocks.thisTrialN,blocks.thisN,blocks.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,requiredResponse.keys,requiredResponse.corr,requiredResponse.rt,feedbackResponse.keys,feedbackResponse.corr,participant,gender,age,frameRate,expName,date,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,0,0,0,0,0,0,0,e,1,2.85114109993,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,0,0,0,0,1,1,0,e,1,0.77050949994,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,0,0,0,1,0,2,0,e,1,0.614283600007,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,0,0,0,1,1,3,1,i,1,0.67541409994,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,0,0,0,2,0,4,0,e,1,0.902783100028,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,0,0,0,2,1,5,0,e,1,0.564519100008,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,0,0,0,3,0,6,1,i,1,0.763770699967,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,0,0,0,3,1,7,1,i,1,0.788033199962,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,0,0,0,4,0,8,0,e,1,0.571393199963,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,0,0,0,4,1,9,1,i,1,0.682901099906,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,0,0,0,5,0,10,1,i,1,0.816603700048,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,0,0,0,5,1,11,1,i,1,0.634525299887,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,0,0,0,6,0,12,1,i,1,0.601748200017,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,0,0,0,6,1,13,0,e,1,1.33515360008,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,0,0,0,7,0,14,0,e,1,0.718707300024,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,0,0,0,7,1,15,0,e,1,0.570086999913,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,0,0,0,8,0,16,1,i,1,0.634666200029,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,0,0,0,8,1,17,0,e,1,0.69862219994,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,0,0,0,9,0,18,1,i,1,0.585782099981,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Položte prosím svůj levý a pravý ukazováček na klávesu E, respektive I. Na obrazovce se začnou po jednom objevovat slova odpovídající kategoriím uvedeným v levém a pravém horním rohu. Pokud zobrazené slovo náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazené slovo náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každé slovo patří jen do jedné kategorie. Pokud slovo zařadíte špatně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+
+Čas je v této úloze velmi důležitý. ODPOVÍDEJTE PROSÍM CO NEJRYCHLEJI, ale zároveň co nejpřesněji. Když budete odpovídat pomalu nebo chybně, výsledky nebude možné analyzovat. Úloha zabere asi 5 minut.
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,0,0,0,9,1,19,1,i,1,0.601345800096,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,1,1,1,0,0,0,0,i,1,1.33440440008,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,1,1,1,0,1,1,1,e,1,0.683956699912,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,1,1,1,1,0,2,1,e,1,0.952314399998,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,1,1,1,1,1,3,0,i,1,0.69904430001,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,1,1,1,2,0,4,0,i,1,1.01789330004,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,1,1,1,2,1,5,0,i,1,0.650529199978,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,1,1,1,3,0,6,1,e,1,0.784059999976,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,1,1,1,3,1,7,0,i,1,0.684488400002,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,1,1,1,4,0,8,0,i,1,0.634990199935,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,1,1,1,4,1,9,1,e,1,1.08522780007,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,1,1,1,5,0,10,1,e,1,0.851323600044,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,1,1,1,5,1,11,0,i,1,0.650615600054,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,1,1,1,6,0,12,1,e,1,0.918141499977,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,1,1,1,6,1,13,1,e,1,0.667690300033,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,1,1,1,7,0,14,1,e,1,0.6839225,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,1,1,1,7,1,15,0,i,1,0.735304399976,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,1,1,1,8,0,16,0,i,1,0.49828020006,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,1,1,1,8,1,17,0,i,1,0.519932299969,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,1,1,1,9,0,18,1,e,1,1.01929079997,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+ , ,Pozitivní,Negativní,None,"Kategorie uvedené nahoře i zobrazované položky se změnily. Pravidla však zůstávají stejná: 
+
+Pokud zobrazená položka náleží ke kategorii uvedené vlevo, stiskněte klávesu E. Poku zobrazená položka náleží ke kategorii uvedené vpravo, stiskněte klávesu I. Každá položka patří jen do jedné kategorie. Pokud položku zařadíte nesprávně, na obrazovce se objeví křížek - v takovém případě prosím chybu opravte a stiskněte odpovídající tlačítko. 
+Pro pokračování zmáčkněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,1,1,1,9,1,19,1,e,1,0.787438000087,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,2,2,2,0,0,0,3,e,1,1.12006370001,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,2,2,2,0,1,1,2,i,1,0.684752300032,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,2,2,2,0,2,2,1,i,1,0.919601899921,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,2,2,2,0,3,3,2,i,1,0.71945059998,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,2,2,2,1,0,4,0,e,1,0.686038300046,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,2,2,2,1,1,5,0,e,1,0.63358429994,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,2,2,2,1,2,6,3,e,1,0.752407000051,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,2,2,2,1,3,7,0,e,1,0.647973999963,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,2,2,2,2,0,8,1,i,1,0.634269500035,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,2,2,2,2,1,9,3,e,1,1.85362459999,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,2,2,2,2,2,10,1,i,1,0.868980300031,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,2,2,2,2,3,11,3,e,1,0.801732699969,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,2,2,2,3,0,12,2,i,1,1.720921,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,2,2,2,3,1,13,3,e,1,0.720848200028,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,2,2,2,3,2,14,0,e,1,1.15056719992,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,2,2,2,3,3,15,1,i,1,0.731570799951,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,2,2,2,4,0,16,0,e,1,0.720633600024,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,2,2,2,4,1,17,2,i,1,0.921060399967,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,2,2,2,4,2,18,1,i,1,0.869847900001,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Jak vidíte, čtyři kategorie, která jste v předchozích kolech viděli odděleně, se nyní zobrazují všechny najednou. Každá položka (slovo nebo fotka) náleží jen do jedné skupiny. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,2,2,2,4,3,19,2,i,1,0.687440300011,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,3,3,3,0,0,0,2,i,1,0.968187599909,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,3,3,3,0,1,1,0,e,1,0.786510500009,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,3,3,3,0,2,2,1,i,1,0.669552700012,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,3,3,3,0,3,3,0,e,1,0.770379199996,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,3,3,3,1,0,4,2,i,1,0.818203100003,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,3,3,3,1,1,5,2,i,1,0.584424100001,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,3,3,3,1,2,6,2,i,1,0.53691470006,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,3,3,3,1,3,7,3,e,1,1.08532449999,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,3,3,3,2,0,8,2,i,1,1.37101799995,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,3,3,3,2,1,9,1,i,1,0.640700000105,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,3,3,3,2,2,10,1,i,1,0.538110700087,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,3,3,3,2,3,11,3,e,1,0.670202999958,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,3,3,3,3,0,12,0,e,1,0.93633679999,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,3,3,3,3,1,13,1,i,1,0.903617599979,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,3,3,3,3,2,14,1,i,1,0.602351000067,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,3,3,3,3,3,15,2,i,1,1.50551100005,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,3,3,3,4,0,16,1,i,1,0.769562599948,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,3,3,3,4,1,17,0,e,1,0.668882699916,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,3,3,3,4,2,18,3,e,1,1.16727530002,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,3,3,3,4,3,19,1,i,1,0.85117369995,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,3,3,3,5,0,20,3,e,1,0.769106600084,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,3,3,3,5,1,21,2,i,1,0.762139800005,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,3,3,3,5,2,22,0,e,1,1.25633259991,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,3,3,3,5,3,23,3,e,1,0.699789199978,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,3,3,3,6,0,24,3,e,1,0.60600759997,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,3,3,3,6,1,25,0,e,1,0.871317099896,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,3,3,3,6,2,26,1,i,1,0.668550499948,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,3,3,3,6,3,27,2,i,1,0.850835100049,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,3,3,3,7,0,28,0,e,1,1.4313846,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,3,3,3,7,1,29,1,i,1,0.650886400021,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,3,3,3,7,2,30,3,e,1,0.956063300022,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,3,3,3,7,3,31,3,e,1,0.780643799924,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,3,3,3,8,0,32,3,e,1,0.709675600054,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,3,3,3,8,1,33,2,i,1,0.852249799995,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,3,3,3,8,2,34,2,i,1,0.776890499983,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,3,3,3,8,3,35,0,e,1,1.15445859998,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,3,3,3,9,0,36,1,i,1,0.702274600044,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,3,3,3,9,1,37,0,e,1,1.33539589995,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,3,3,3,9,2,38,3,e,1,0.767410499975,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Instrukce zůstávají stejné jako v minulém kole. Nezapomeňte prosím, že čas je v této úloze velmi důležitý.
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,3,3,3,9,3,39,0,e,1,0.651889299974,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,0,0,0,0,i,1,0.65411829995,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,0,1,1,1,e,1,0.668225800036,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,1,0,2,0,i,1,0.535894099972,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,1,1,3,0,i,1,0.589091900038,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,2,0,4,1,e,1,0.770142799942,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,2,1,5,0,i,1,0.570474899956,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,3,0,6,0,i,1,0.602659300086,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,3,1,7,1,e,1,0.736788699985,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,4,0,8,1,e,1,0.649415099993,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,4,1,9,0,i,1,0.633560399991,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,5,0,10,0,i,1,0.586702800007,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,5,1,11,0,i,1,0.617558900034,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,6,0,12,0,i,1,0.686388300033,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,6,1,13,0,i,1,0.952796600061,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,7,0,14,1,e,1,0.681297300034,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,7,1,15,1,e,1,0.734920100076,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,8,0,16,1,e,1,0.667668799986,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,8,1,17,1,e,1,0.667868499993,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,9,0,18,1,e,1,0.687090299907,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,9,1,19,0,i,1,0.667964799912,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,10,0,20,1,e,1,0.616505800048,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,10,1,21,0,i,1,0.868614199921,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,11,0,22,0,i,1,0.603725500056,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,11,1,23,0,i,1,0.569398000021,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,12,0,24,0,i,1,0.754041000037,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,12,1,25,1,e,1,0.684932500008,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,13,0,26,1,e,1,0.781158099999,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,13,1,27,1,e,1,0.786928699934,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,14,0,28,0,i,1,0.703628799994,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,14,1,29,0,i,1,0.803146400023,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,15,0,30,1,e,1,0.668529900024,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,15,1,31,1,e,1,0.684065900045,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,16,0,32,0,i,1,0.568451599916,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,16,1,33,1,e,1,0.634889699984,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,17,0,34,1,e,1,0.887663800037,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,17,1,35,1,e,1,1.48466720001,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,18,0,36,1,e,1,0.81694290007,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,18,1,37,0,i,1,1.10183009994,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,4,4,4,19,0,38,1,e,1,0.768215799937,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch, , , ,"Všimněte si prosím, že v horní části obrazovky teď jsou jen dvě kategorie - a prohodily si místa. Kategorie, která byla v minulém kole vlevo, teď je vpravo (a naopak). Využijte prosím toto cvičné kolo k tomu, abyste si zvykli na nové uspořádání. 
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,4,4,4,19,1,39,0,i,1,0.6040546,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,5,5,5,0,0,0,0,i,1,2.40301549993,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,5,5,5,0,1,1,3,e,1,0.735409000074,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,5,5,5,0,2,2,2,i,1,0.78547750006,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,5,5,5,0,3,3,0,i,1,0.833075699979,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,5,5,5,1,0,4,2,i,1,0.637590799946,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,5,5,5,1,1,5,3,e,1,0.818628000095,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,5,5,5,1,2,6,2,i,1,0.739141999977,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,5,5,5,1,3,7,2,i,1,1.10072580003,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,5,5,5,2,0,8,3,e,1,0.701442699996,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,5,5,5,2,1,9,3,e,1,0.853609099984,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,5,5,5,2,2,10,1,e,1,0.937313200091,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,5,5,5,2,3,11,3,e,1,0.982246799977,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,5,5,5,3,0,12,1,e,1,0.634605300031,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,5,5,5,3,1,13,2,i,1,1.2868149,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,5,5,5,3,2,14,1,e,1,1.51935669989,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,5,5,5,3,3,15,0,i,1,1.5518434,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,5,5,5,4,0,16,1,e,1,0.716013099998,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,5,5,5,4,1,17,0,i,1,0.700897700037,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,5,5,5,4,2,18,1,e,1,0.567985499976,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo,"Nahoře teď jsou zobrazeny čtyři kategorie. Zařaďte prosím každou položku do její náležité kategorie. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,5,5,5,4,3,19,0,i,1,0.667668199982,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,6,6,6,0,0,0,0,i,1,1.10105449997,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,6,6,6,0,1,1,2,i,1,0.551979599986,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,6,6,6,0,2,2,0,i,1,0.618553099921,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,6,6,6,0,3,3,0,i,1,0.602357900003,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,6,6,6,1,0,4,3,e,1,0.703900699969,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,6,6,6,1,1,5,2,i,1,0.948162799934,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,6,6,6,1,2,6,2,i,1,0.904504799983,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,6,6,6,1,3,7,2,i,1,0.452273900039,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,6,6,6,2,0,8,0,i,1,0.569829600048,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,6,6,6,2,1,9,1,e,1,0.700139999972,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,6,6,6,2,2,10,3,e,1,0.853604100063,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,6,6,6,2,3,11,2,i,1,0.735828000004,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,6,6,6,3,0,12,3,e,1,0.901362000033,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,6,6,6,3,1,13,0,i,1,0.533882999909,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,6,6,6,3,2,14,1,e,1,0.635178999975,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,6,6,6,3,3,15,3,e,1,0.75116460002,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,6,6,6,4,0,16,0,i,1,0.701124600018,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,6,6,6,4,1,17,3,e,1,0.944170099916,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,6,6,6,4,2,18,1,e,1,1.15139530005,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,6,6,6,4,3,19,0,i,1,0.562760800007,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,6,6,6,5,0,20,3,e,1,0.753842100035,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,6,6,6,5,1,21,2,i,1,0.716501399991,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,6,6,6,5,2,22,0,i,1,0.854083699989,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,6,6,6,5,3,23,1,e,1,0.79922549997,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,6,6,6,6,0,24,0,i,1,0.702139699948,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,6,6,6,6,1,25,3,e,1,0.685911700013,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,6,6,6,6,2,26,2,i,1,0.617887400091,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,6,6,6,6,3,27,2,i,1,0.670478700078,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,6,6,6,7,0,28,1,e,1,0.750384600018,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,6,6,6,7,1,29,3,e,1,0.979443099932,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,6,6,6,7,2,30,2,i,1,0.552241400001,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,6,6,6,7,3,31,3,e,1,0.820953399991,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",3,img_trial_type_3,text_trial_type_3,0,6,6,6,8,0,32,2,i,1,0.611108200043,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",1,img_trial_type_1,text_trial_type_1,0,6,6,6,8,1,33,0,i,1,0.736483199988,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",4,img_trial_type_4,text_trial_type_4,0,6,6,6,8,2,34,3,e,1,0.781787599903,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,6,6,6,8,3,35,1,e,1,0.785861099954,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,6,6,6,9,0,36,1,e,1,0.621133200009,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,6,6,6,9,1,37,1,e,1,0.63503679994,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,6,6,6,9,2,38,1,e,1,0.650845600059,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
+Černoch,Běloch,Pozitivní,Negativní,nebo ,"Mockrát děkujeme za Vaši spolupráci! Čeká Vás poslední kolo. Uspořádání kategorií je stejné jako v kole minulém. 
+
+Pomocí kláves E a I prosím třiďte položky do čtyř skupin uvedených vlevo i vpravo. Případnou chybu prosím opravte stisknutím náležitého tlačítka. 
+
+Pro pokračování stiskněte klávesu E nebo I. ",2,img_trial_type_2,text_trial_type_2,0,6,6,6,9,3,39,1,e,1,0.586129099946,None,0,20,f,21,59.7974540528,IAT,2019_pro_06_1238,
